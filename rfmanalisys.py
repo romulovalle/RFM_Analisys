@@ -8,7 +8,7 @@ Original file is located at
 
 # Análise RFM
 
-##### Rômulo Antônio Garcia da Rosa do Valle - PPGI UTFPR Mestrado Profissional (2023)
+##### Rômulo Valle - PPGI
 
 ## 1. O que é a Análise RFM?
 
